@@ -22,7 +22,7 @@
 ---
 
 14.2.2 CONHECIMENTOS BÁSICOS
-LÍNGUA PORTUGUESA: 
+## LÍNGUA PORTUGUESA: 
 - [ ] 1 Compreensão e interpretação de textos.
 - [ ] 2 Tipologia textual.
 - [ ] 3 Ortografia oficial.
@@ -35,12 +35,12 @@ LÍNGUA PORTUGUESA:
 - [ ] 10 Regências nominal e verbal.
 - [ ] 11 Significação das palavras.
 - [ ] 12 Redação de correspondências oficiais (conforme Manual de Redação da Presidência da República).
-ÉTICA NO SERVIÇO PÚBLICO:
+## ÉTICA NO SERVIÇO PÚBLICO:
 - [ ] 1 Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal: Decreto nº 1.171/1994 e Decreto nº 6.029/2007 e suas alterações.
-NOÇÕES DE DIREITO CONSTITUCIONAL:
+## NOÇÕES DE DIREITO CONSTITUCIONAL:
 - [ ] 1 Direitos e garantias fundamentais: direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade, à segurança e à propriedade; direitos sociais; nacionalidade; cidadania; garantias constitucionais individuais; garantias dos direitos coletivos, sociais e políticos.
 - [ ] 2 Administração pública (artigos de 37 a 41, capítulo VII, Constituição Federal de 1988).
-NOÇÕES DE DIREITO ADMINISTRATIVO:
+## NOÇÕES DE DIREITO ADMINISTRATIVO:
 - [ ] 1 Estado, governo e administração pública: conceitos, elementos, poderes e organização; natureza, fins e princípios.
 - [ ] 2 Direito administrativo: conceito, fontes e princípios.
 - [ ] 3 Organização administrativa da União; administração direta e indireta.
@@ -49,19 +49,19 @@ NOÇÕES DE DIREITO ADMINISTRATIVO:
 - [ ] 7 Serviços Públicos: conceito, classificação, regulamentação e controle; forma, meios e requisitos; delegação: concessão, permissão, autorização.
 - [ ] 8 Controle e responsabilização da administração: controle administrativo; controle judicial; controle legislativo; responsabilidade civil do Estado. Lei nº 8.429/1992 e suas alterações.
 - [ ] 9 Lei nº 9.784/1999 (Lei do Processo Administrativo).
-NOÇÕES DE INFORMÁTICA:
+## NOÇÕES DE INFORMÁTICA:
 - [ ] 1 Conceitos de Internet e intranet.
 - [ ] 2 Conceitos básicos e modos de utilização de tecnologias, ferramentas, aplicativos e procedimentos de informática.
 - [ ] 3 Conceitos e modos de utilização de aplicativos para a edição de textos, planilhas e apresentações com a suíte de escritório LibreOffice. 
 - [ ] 4 Conceitos e modos de utilização de sistemas operacionais Windows 7 e 10.
 - [ ] 5 Noções básicas de ferramentas e aplicativos de navegação e correio eletrônico.
 - [ ] 6 Noções básicas de segurança e proteção: vírus, worms e derivados.
-RACIOCÍNIO LÓGICO-MATEMÁTICO:
+## RACIOCÍNIO LÓGICO-MATEMÁTICO:
 - [ ] 1 Conceitos básicos de raciocínio lógico: proposições; valores lógicos das proposições; sentenças abertas; número de linhas da tabela-verdade; conectivos; proposições simples; proposições compostas.
 - [ ] 2 Tautologia.
 - [ ] 3 Operação com conjuntos.
 - [ ] 4 Cálculos com porcentagens.
-14.2.3 CONHECIMENTOS ESPECÍFICOS
+## 14.2.3 CONHECIMENTOS ESPECÍFICOS
 - [ ] 1 Seguridade Social.
     - [ ] 1.1 Origem e evolução legislativa no Brasil.
     - [ ] 1.2 Conceituação. 1.3 Organização e princípios constitucionais.
